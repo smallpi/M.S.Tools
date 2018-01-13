@@ -2,3 +2,5 @@ fileUtil:
 	文件的遍历、收集、删除等操作
 UFOConverter:
 	将.obj等文件格式转化成.ufo文件格式
+fileScanner:
+	扫描文件，找出存在匹配内容的文件、行号及内容
